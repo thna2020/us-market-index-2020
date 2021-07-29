@@ -1,1 +1,1 @@
-Click **Reload** when file is not properly loaded for preview.
+ :exclamation: Click **Reload** when file is not properly loaded for preview. :exclamation:
