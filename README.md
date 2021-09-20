@@ -33,6 +33,10 @@ The federal holiday, which dates back to 1885, occurs on the third Monday of Feb
 ### Data Analysis
 
 ![Data Analysis](images/DA_1.jpg)
+Line chart communicates a stock’s price action very quickly and simply without any significant detail. As a long-term investor, you want your price chart rising from bottom left to top right. That means the stock is rising in price over time. As a short-term investor staying in a stock for weeks or months, you still want the same price action, but you’re looking to exit before the long-term investor does.
+
+Why is a Stock’s Closing Price Significant? A stock’s closing price that determines how a share performs during the day. The close price is considered the reference point for any time frame. It’s the price traders agreed on after all the action throughout the day. When researching historical stock price data, most will use the closing price as the standard measure of the stock’s value as of a specific date. Especially, a stock’s closing price on December 31 in any year is also the closing price for not only that day, but also that week, month, quarter, and year.
+
 ![Data Analysis](images/DA_2.jpg)
 ![Data Analysis](images/DA_3.jpg)
 ![Data Analysis](images/DA_4.jpg)
