@@ -27,3 +27,9 @@ Step 3: Evaluation
 ### Data Understanding & Preparation
 
 ![Data Understanding & Preparation](images/DataPrep.jpg)
+
+The federal holiday, which dates back to 1885, occurs on the third Monday of February. U.S. exchanges are closed for Presidents Day 2020, which falls on February 17 this year. The New York Stock Exchange, Nasdaq, and bond markets will resume trading at their normal hours on Tuesday, February 18.
+
+### Data Analysis
+
+
