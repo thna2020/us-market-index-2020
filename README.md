@@ -43,3 +43,7 @@ The federal holiday, which dates back to 1885, occurs on the third Monday of Feb
 ![Data Analysis](images/DA_9.jpg)
 ![Data Analysis](images/DA_10.jpg)
 ![Data Analysis](images/DA_11.jpg)
+The Nasdaq Composite is as old as the exchange and is different from another popular index, the Nasdaq-100. The Nasdaq-100 comprises of the top 100 non-financial companies listed on the Nasdaq exchange and accounts for over 90% of the movement of the Nasdaq Composite.
+
+At the same time, around 80% of the companies in the Nasdaq-100 are also in the S&P 500. That hasn't always been the case. Fifteen years ago, the overlap was less than 50%.
+
