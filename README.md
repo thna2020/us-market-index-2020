@@ -69,9 +69,28 @@ The 2020 stock market crash began just as the World Health Organization moved to
 The market climbed higher on a combination of unprecedented fiscal and monetary stimulus in response to the pandemic, as well as hopes for a swift economic rebound.
 
 ![Data Analysis](images/DA_4.jpg)
+
+Moving averages are plotted on stock charts to help smooth out period-to-period price fluctuation and highlight overall trend direction. The longer the time period that you chart a moving average, the smoother it becomes, since each additional data point becomes less meaningful because there are more points before it.
+
+Most growth investors like to see moving averages trending up and they like to see the stock’s current price continually close above the trailing average. This is a sign the stock is on the right track to continue rising in price.
+
+In this chart, the orange line is the 50-day moving average, represents the average price over the previous 50 trading sessions, and is calculated by summing the closing price over the last 50 trading sessions and dividing by 50. 
+
+The green line is the 200-day moving average. It represents the average price over the previous 200 trading sessions and is calculated by summing the closing price over the last 200 trading sessions and dividing by 200.
+
+The 200-day moving average is considered especially significant in stock trading. As long as the 50-day moving average of a stock price remains above the 200-day moving average, the stock is generally thought to be in a bullish trend.
+
+If the short-term average is below the long-term average, but at some point, it crosses that graph and becomes higher, that intersection is called a golden cross. The golden cross occurs when the 50-day moving average of a stock crosses above its 200-day moving average. The golden cross, in direct contrast to the cross of death when the short-term moving average descends below the long-term moving average, is a strong bullish market signal, indicating the start of a long-term uptrend. Analysts that look for this pattern consider a positive golden cross to be a signal that the stock or other asset's price is headed higher. 
+
+The idea behind a golden cross is that if an investment's performance is continuing to lag, both the 50-day and the 200-day averages should stay about the same distance from each other. If the 50-day average picks up and crosses the longer-term average, it's a sign that the investment's price has started to increase and that there could be further upward momentum.
+
 ![Data Analysis](images/DA_5.jpg)
+
 ![Data Analysis](images/DA_6.jpg)
+
 ![Data Analysis](images/DA_7.jpg)
+
+
 ![Data Analysis](images/DA_8.jpg)
 ![Data Analysis](images/DA_9.jpg)
 ![Data Analysis](images/DA_10.jpg)
