@@ -90,9 +90,18 @@ The idea behind a golden cross is that if an investment's performance is continu
 
 ![Data Analysis](images/DA_7.jpg)
 
+Stock prices change on a daily basis, altering the value of your investments. Daily stock return is calculated to monitor the magnitude of this change. 
+
+A return can be understood as the money made or lost on an investment over some period of time. Returns exhibit more attractive statistical properties than asset prices themselves. Therefore it also makes more statistical sense to analyze return data rather than price series.
+
+The daily return measures the dollar change in a stock’s price as a percentage of the previous day’s closing price. A positive return means the stock has grown in value, while a negative return means it has lost value. A stock with lower positive and negative daily returns is typically less risky than a stock with higher daily returns, which create larger swings in value.
 
 ![Data Analysis](images/DA_8.jpg)
+
+The indicator ‘three weeks tight’ is when the closing prices remain within 1.5% (0.015) of each other for three consecutive weeks. This behavior suggests overall demand for the stock is exceptionally high. If the difference between each weekly close exceeds 1.5%, the three-weeks-tight pattern likely has flaws.
+
 ![Data Analysis](images/DA_9.jpg)
+
 ![Data Analysis](images/DA_10.jpg)
 
 ![Data Analysis](images/DA_11.jpg)
