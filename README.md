@@ -17,3 +17,12 @@ The Standard and Poor's 500, also known as the S&P 500 (ticker symbol ^GSPC), is
 The Dow Jones Industrial Average or simply the Dow (ticker symbol ^DJI) is a stock market index of 30 large listed companies in the United States, where the number 30 is because few American stocks existed when the index was created in the late 1800s. 
 
 In sum, the Nasdaq Composite is for tech, S&P 500 index is for a broad understanding of the US economy, and the Dow measures the movements of the leading companies in the United States that engage in industrial activities.
+
+### Procedure
+
+Step 1: Data Understanding & Preparation
+Step 2: Data Analysis
+Step 3: Evaluation
+
+### Data Understanding & Preparation
+
