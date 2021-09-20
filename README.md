@@ -26,3 +26,4 @@ Step 3: Evaluation
 
 ### Data Understanding & Preparation
 
+![Data Understanding & Preparation](images/DataPrep.jpeg)
