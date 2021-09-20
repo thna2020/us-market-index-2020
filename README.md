@@ -1,4 +1,4 @@
- :exclamation: Click **Reload** when Jupyter Notebook is not properly loaded for preview. :exclamation:
+ :exclamation: :exclamation: :exclamation: Click **Reload** when Jupyter Notebook is not properly loaded for preview. :exclamation: :exclamation: :exclamation:
 
 # The NASDAQ Composite, S&P 500 and the Dow in 2020
 
