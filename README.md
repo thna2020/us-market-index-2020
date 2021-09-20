@@ -63,6 +63,11 @@ A cumulative return on an investment is the aggregate amount that the investment
 The cumulative return usually grows over time, so it tends to make older stocks and funds look impressive. It follows that the cumulative return is not a good way to compare investments unless they launched at the same time. An example of cumulative return is investing $10,000 in a company's stock for a 10-year period that results in $66,000. With no taxes and no dividends reinvested, there is a cumulative return of 560%.
 
 ![Data Analysis](images/DA_3.jpg)
+
+The 2020 stock market crash began just as the World Health Organization moved to declare COVID-19 an official pandemic.
+
+The market climbed higher on a combination of unprecedented fiscal and monetary stimulus in response to the pandemic, as well as hopes for a swift economic rebound.
+
 ![Data Analysis](images/DA_4.jpg)
 ![Data Analysis](images/DA_5.jpg)
 ![Data Analysis](images/DA_6.jpg)
