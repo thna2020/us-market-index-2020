@@ -1,6 +1,6 @@
  :exclamation: Click **Reload** when Jupyter Notebook is not properly loaded for preview. :exclamation:
 
-# The NASDAQ Composite, S&P 500 and the Dow in 2020 #
+# The NASDAQ Composite, S&P 500 and the Dow in 2020
 
 This project, conducted with Python and its data analysis libraries such as Pandas and Matplotlib, evaluates and compares performance of the Nasdaq Composite, S&P 500 index, and the Dow in 2020. Historical data are sourced from MarketWatch, a subsidiary of Dow Jones & Company and a property of News Corp.
 
@@ -21,7 +21,9 @@ In sum, the Nasdaq Composite is for tech, S&P 500 index is for a broad understan
 ### Procedure
 
 Step 1: Data Understanding & Preparation
+
 Step 2: Data Analysis
+
 Step 3: Evaluation
 
 ### Data Understanding & Preparation
@@ -40,7 +42,24 @@ Line chart communicates a stock’s price action very quickly and simply without
 
 Why is a Stock’s Closing Price Significant? A stock’s closing price that determines how a share performs during the day. The close price is considered the reference point for any time frame. It’s the price traders agreed on after all the action throughout the day. When researching historical stock price data, most will use the closing price as the standard measure of the stock’s value as of a specific date. Especially, a stock’s closing price on December 31 in any year is also the closing price for not only that day, but also that week, month, quarter, and year.
 
+##### Stock Returns in 2020
+
+The difference between a stock’s open and close divided by the open is its stock return or its performance in percentage terms. To take a longer-term view of a stock’s performance, such as one-year, we will use the closing price from a year ago and compare it to the closing price from today to get the annual return.
+
+
+NASDAQ Composite (^IXIC) grows by 42.58 percent.
+- Mean Difference between Open and Close of NASDAQ Composite (^IXIC): $5.82
+
+S&P 500 (^GSPC) grows by 15.76 percent.
+- Mean Difference between Open and Close of S&P 500 (^GSPC): $0.11
+
+Dow Jones Industrial Average (^DJI) grows by 6.87 percent.
+- Mean Difference between Open and Close of Dow Jones Industrial Average (^DJI): $-3.43
+
 ![Data Analysis](images/DA_2.jpg)
+
+
+
 ![Data Analysis](images/DA_3.jpg)
 ![Data Analysis](images/DA_4.jpg)
 ![Data Analysis](images/DA_5.jpg)
