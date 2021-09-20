@@ -110,3 +110,17 @@ The Nasdaq Composite is as old as the exchange and is different from another pop
 
 At the same time, around 80% of the companies in the Nasdaq-100 are also in the S&P 500. That hasn't always been the case. Fifteen years ago, the overlap was less than 50%.
 
+### Evaluation
+
+Compare our project's analysis outcome with **Analyst Recommendations**
+
+Our analysis has provided us with the figures of stock returns for the three indices in 2020: NASDAQ Composite (^IXIC) grows by 42.58 percent, S&P 500 (^GSPC) grows by 15.76 percent, and Dow Jones Industrial Average (^DJI) grows by 6.87 percent.
+
+Investors typically use analyst recommendations in conjunction with their own stock analysis: The Dow Jones Industrial Average generated a 9.7% total return including dividends, trailing the 18.4% return for the S&P 500 index and far behind 45% advance of the Nasdaq Composite. The economy’s nascent recovery gets much of the credit for the market’s gains, as does a federal stimulus package, massive amounts of liquidity from the Federal Reserve and the rapid development of multiple Covid-19 vaccines.
+
+Total return including dividends:
+- Nasdaq Composite: 45%
+- The S&P 500 index: 18.4%
+- The Dow Jones Industrial Average: 9.7%
+
+Hence, we can see that our statistical analysis shares similar result with standard market analysis (created by taking into consideration a wide range of financial indicators). Thus, we can trust the reliability of the analysis of this project.
