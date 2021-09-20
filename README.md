@@ -2,7 +2,7 @@
 
 This project, conducted with Python and its data analysis libraries such as Pandas and Matplotlib, evaluates and compares performance of the Nasdaq Composite, S&P 500 index, and the Dow in 2020. Historical data are sourced from MarketWatch, a subsidiary of Dow Jones & Company and a property of News Corp.
 
-PDF report of this project can be found [here](2020 Composite Index US - Trang Ha Nguyen (Helen).pdf).
+PDF report of this project can be found [here]('2020 Composite Index US - Trang Ha Nguyen (Helen).pdf').
 
 :exclamation: :exclamation: :exclamation: Click **Reload** when Jupyter Notebook is not properly loaded for preview. :exclamation: :exclamation: :exclamation:
 
