@@ -124,3 +124,5 @@ Total return including dividends:
 - The Dow Jones Industrial Average: 9.7%
 
 Hence, we can see that our statistical analysis shares similar result with standard market analysis (created by taking into consideration a wide range of financial indicators). Thus, we can trust the reliability of the analysis of this project.
+
+![Evaluation](images/Eval.jpg)
