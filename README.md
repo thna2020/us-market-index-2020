@@ -42,7 +42,7 @@ Line chart communicates a stock’s price action very quickly and simply without
 
 Why is a Stock’s Closing Price Significant? A stock’s closing price that determines how a share performs during the day. The close price is considered the reference point for any time frame. It’s the price traders agreed on after all the action throughout the day. When researching historical stock price data, most will use the closing price as the standard measure of the stock’s value as of a specific date. Especially, a stock’s closing price on December 31 in any year is also the closing price for not only that day, but also that week, month, quarter, and year.
 
-##### Stock Returns in 2020
+**Stock Returns in 2020**
 
 The difference between a stock’s open and close divided by the open is its stock return or its performance in percentage terms. To take a longer-term view of a stock’s performance, such as one-year, we will use the closing price from a year ago and compare it to the closing price from today to get the annual return.
 
@@ -58,7 +58,9 @@ Dow Jones Industrial Average (^DJI) grows by 6.87 percent.
 
 ![Data Analysis](images/DA_2.jpg)
 
+A cumulative return on an investment is the aggregate amount that the investment has gained or lost over time in percentage. In this simple project, the raw closing price is used to calculate the cumulative return.
 
+The cumulative return usually grows over time, so it tends to make older stocks and funds look impressive. It follows that the cumulative return is not a good way to compare investments unless they launched at the same time. An example of cumulative return is investing $10,000 in a company's stock for a 10-year period that results in $66,000. With no taxes and no dividends reinvested, there is a cumulative return of 560%.
 
 ![Data Analysis](images/DA_3.jpg)
 ![Data Analysis](images/DA_4.jpg)
