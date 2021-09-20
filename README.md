@@ -126,3 +126,11 @@ Total return including dividends:
 Hence, we can see that our statistical analysis shares similar result with standard market analysis (created by taking into consideration a wide range of financial indicators). Thus, we can trust the reliability of the analysis of this project.
 
 ![Evaluation](images/Eval.jpg)
+
+Technology companies continue to post impressive gains, while industries hard hit by the pandemic recover impressively.
+
+After crashing last year, energy stocks continue to head up ^GSPC's gains, with top-performer Marathon Oil up nearly 100%, while Diamondback Energy, Occidental Petroleum and Nucor have all jumped at least 78%; 6 of the S&P's top 10 stocks this year are in the energy sector. The financial sector is the year's second-best performing in the S&P (up 24%), while real estate and communication services follow closely behind—climbing 23% and 19%, respectively.
+
+Though energy and financial stocks headed up the market at the start of this year, technology stocks have also bounced back after underperforming this spring amid accelerating economic growth and the threat of rising interest rates. Those fears spurred a stock market rotation away from growth stocks (like those in tech) to cyclical and value-leaning slices of the market that struggled during the pandemic (like energy and financials). In recent weeks, however, Federal Reserve officials have made it clear the Fed isn't looking to hike interest rates anytime soon.
+
+*Thank you for your attention!*
