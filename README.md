@@ -32,4 +32,14 @@ The federal holiday, which dates back to 1885, occurs on the third Monday of Feb
 
 ### Data Analysis
 
-
+![Data Analysis](images/DA1.jpg)
+![Data Analysis](images/DA2.jpg)
+![Data Analysis](images/DA3.jpg)
+![Data Analysis](images/DA4.jpg)
+![Data Analysis](images/DA5.jpg)
+![Data Analysis](images/DA6.jpg)
+![Data Analysis](images/DA7.jpg)
+![Data Analysis](images/DA8.jpg)
+![Data Analysis](images/DA9.jpg)
+![Data Analysis](images/DA10.jpg)
+![Data Analysis](images/DA11.jpg)
